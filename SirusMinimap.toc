@@ -16,6 +16,5 @@
 ## DefaultState: enabled
 ## LoadOnDemand: 0
 
-# --- Код ---
 Core.lua
 Config.lua
