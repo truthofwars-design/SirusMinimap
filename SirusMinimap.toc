@@ -7,9 +7,9 @@
 ## X-License: All Rights Reserved
 ## X-Compatible-With: 30300
 ## x-oUF: SirusMinimap
-## x-Sirus-update: https://githud.com/truthofwars-design/SirusMinimap/tree/master
+## x-Sirus-update: https://github.com/truthofwars-design/SirusMinimap/tree/master
 ## X-Realm: Sirus
-## X-Sirus-Category 11
+## X-Sirus-Category: 11
 
 ## SavedVariables: SirusMinimapDB
 
