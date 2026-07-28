@@ -1,0 +1,22 @@
+## Interface: 30300
+## Title: |cff1784d1Sirus|rMinimap
+## Notes: Квадратная миникарта в стиле ElvUI.|nНастройки — кнопка "Н" слева внизу карты или /smm
+## Author: Миссохота
+## Version: 1.0.0
+
+## X-Category: Map
+## X-License: All Rights Reserved
+## X-Compatible-With: 30300
+## X-Realm: Sirus
+## X-Sirus-Update https://github.com/fxpw/SirusMinimap/tree/master
+## X-Sirus-Category 11
+
+## SavedVariables: SirusMinimapDB
+# ## SavedVariablesPerCharacter: SirusMinimapCharDB
+
+## DefaultState: enabled
+## LoadOnDemand: 0
+
+# --- Код ---
+Core.lua
+Config.lua
