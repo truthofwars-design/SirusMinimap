@@ -10,11 +10,8 @@
 ## x-Sirus-update: https://github.com/truthofwars-design/SirusMinimap/tree/master
 ## X-Realm: Sirus
 ## X-Sirus-Category: 11
-
 ## SavedVariables: SirusMinimapDB
-
 ## DefaultState: enabled
 ## LoadOnDemand: 0
-
 Core.lua
 Config.lua
