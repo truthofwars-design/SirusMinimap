@@ -2,7 +2,7 @@
 ## Title: |cff1784d1Sirus|rMinimap
 ## Notes: Квадратная миникарта в стиле ElvUI.|nНастройки — кнопка "Н" слева внизу карты или /smm
 ## Author: Миссохота
-## Version: 1.0.0
+## Version: 1.0
 
 ## X-Category: Map
 ## X-License: All Rights Reserved
